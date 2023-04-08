@@ -1,14 +1,10 @@
 <h1>Hi 👋, I'm Youness Ahasla</h1>
-<h3>A passionate frontend developer from Morocco</h3>
+<h3>A passionate back-end developer from Morocco</h3>
 
-
-- 🔭 I’m currently working on [A Gaming Store](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [www.younesscoding.me](www.younesscoding.me)
-
-- 💬 Ask me about **C, Algorithms and data structures**
 
 - 📫 How to reach me **[@younessCoding](https://twitter.com/younessCoding)**
 
